@@ -38,6 +38,11 @@
 		{ 
 			cfgsuffix       = "univ64",
 		},
+		iOS =
+		{
+  			cfgsuffix       = "ios",
+			iscrosscompiler = true,
+		},
 		PS3 = 
 		{ 
 			cfgsuffix       = "ps3",
